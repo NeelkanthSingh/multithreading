@@ -1,4 +1,4 @@
-public class Main {
+public class Multithreading0 {
     public static void main(String[] args) {
 
         Thread thread = new Thread(new Runnable() {
