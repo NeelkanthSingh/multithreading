@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5325b65a-678c-401f-b22d-6c5d902d5961" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Multithreading2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Multithreading2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +37,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Multithreading1">
+  <component name="RunManager" selected="Application.Multithreading2">
     <configuration name="Multithreading0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Multithreading0" />
       <module name="multithreading" />
@@ -58,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Multithreading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multithreading2" />
+      <module name="multithreading" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Multithreading2" />
         <item itemvalue="Application.Multithreading1" />
         <item itemvalue="Application.Multithreading0" />
       </list>
